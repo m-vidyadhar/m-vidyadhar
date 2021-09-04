@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as Analyst at D. E. Shaw India in Asset Backed Securities - Analytics division.
+- 🤞 Looking forward to active participation in ML/DS Competitions going forward.
+
+Email ID: **mudiumvx2020@email.iimcal.ac.in** / **vidyadhar@alumni.iitm.ac.in**
+
+
 <!--
 **m-vidyadhar/m-vidyadhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
