@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Analyst at D. E. Shaw India in Asset Backed Securities - Analytics division.
-- 🤞 Looking forward to active participation in ML/DS Competitions going forward.
+- 🔭 I’m currently working as Senior Data Scientist at Swiggy Limited.
 
 Email ID: **mudiumvx2020@email.iimcal.ac.in** / **vidyadhar@alumni.iitm.ac.in**
 
